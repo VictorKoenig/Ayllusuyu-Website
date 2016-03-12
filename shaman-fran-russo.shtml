@@ -1,0 +1,26 @@
+<!--#set var="htmlTitle" value="Shaman Fran Russo" -->
+<!--#set var="metaDescription" value="Shaman Healing Journeys to the Sacred Places of Peru" -->
+<!--#set var="metaKeywords" value="Shaman Healing Journeys to the Sacred Places of Peru" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Meet Shaman Fran Russo" -->
+<!--#set var="title-3" value="Journey to the Amazon, Cuzco, the Sacred Valley and Machu Picchu and discover your primal self within." -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/slideshow-top.shtml" -->
+<!--#include virtual="./inc/slideshow.shtml" -->
+<!--#include virtual="./inc/slideshow-bottom.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+ 
+    <h2>Fran Russo</h2>
+    <p>
+    <img src="./img/fran-russo.png" style="vertical-align: left; margin-right: 8px; margin-top: 2px; text-align: left; float: left;" alt="Shaman Fran Russo" />
+    <strong>Fran Russo</strong> is a shaman/curandera working in the tradition of the Peruvian shamans.  She is a Weaver of the Energetics. Perceiving the energetic body of a person or place, through its color, sound, feel, weight, texture and more, Fran is guided to the healing in whatever form best serves.  In this way, the person or place is free to find and follow the natural flow of his or her path.
+    </p>
+
+    <p>When she was a child, Fran was introduced to the world of intuition by her first teacher, her grandmother.  Fran then studied with North American natives as well as South American elders.  Fran travels extensively in Peru, working with both the shamans of the Andean mountains and of the Amazon. There she has learned the ancient ways of the Q'ero elders, the direct descendants of the ancient Incans. Working in the ancient traditions for many years, Fran helps others to energetically release and transform self into the strength of true self, spinning joy into life.</p>
+
+    <p>Through television, radio, workshops, groups, individual healing sessions, and journeys to Peru since 1993, Fran brings the ancient teachings of Peru.  Fran's organization, Ayllusuyu, serves the greater good through sacred ceremony and gatherings as well as workshops and talks based on those teachings.</p>
+
+    <p>Fran is the author of <a href="./through-the-eyes-of-jaguar-book.shtml">Through The Eyes of Jaguar: One Woman's Journey</a>.</p>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->

@@ -1,0 +1,55 @@
+<!--#set var="htmlTitle" value="Through The Eyes of Jaguar: One Woman's Journey (the book)" -->
+<!--#set var="metaDescription" value="Through The Eyes of Jaguar: One Woman's Journey (the book)" -->
+<!--#set var="metaKeywords" value="Through The Eyes of Jaguar: One Woman's Journey, Through The Eyes of Jaguar, One Woman's Journey" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Through The Eyes of Jaguar: One Woman's Journey" -->
+<!--#set var="title-3" value="The Book by Author Fran Russo" -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/slideshow-top.shtml" -->
+<!--#include virtual="./inc/slideshow.shtml" -->
+<!--#include virtual="./inc/slideshow-bottom.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+ 
+   <h2>Through The Eyes of Jaguar: One Woman's Journey</h2>
+
+   <h3>by Author Fran Russo</h3>
+
+   <p style="font-style: italic;"><b>Imagine:</b> waking up at 6:00 AM, high in the <strong>Andes</strong>, the sky a clear, clean blue, the air cold and crisp, the first site you see is the face of The Old Man, majestic, ancient, welcoming</p>
+
+
+   <p style="font-style: italic;"><b>Imagine:</b> walking deep in the <strong>Amazon jungle</strong>, the joyous sound of the macaws, and the monkeys are your companions; the wild, primal life surrounding you, lifts you up, remidning you that you are alive.</p>
+
+   <p>
+   <img src="./img/through-the-eyes-of-jaguar-book-cover.gif" alt="Through the Eyes Of Jaguar Book" style="width: 150px; height: 208px; float: left; margin-right: 12px;">
+   Come join Fran Russo, as she traveled from a comfortable, safe world into a world that showed her what it is to be who she actually is. Through her experiences in Peru and the teachings brought back with her, Fran brings the inspiration that we can all make our dreams come true.</p>
+
+   <p>Fran Russo of Ayllusuyu is a curandera working in the traditions of the Peruvians shamans for many years. Fran has traveled extensively throughout Peru, from the heights of the Andes into the Amazon jungle as well as into Bolivia and the Lake Titicaca and Tiwanaku regions.</p>
+
+   <h2>Book Excerpt: ARRIVING IN CUZCO</h2>
+   <p>"It's a week and a half away now. The memories come. Hearing the traffic on the streets in front of the hotel, early in the morning. The air is cold. I can smell it. The feeling of rightness when the plane landed in Cuzco Airport. Walking across the runway to the terminal. Feeling in every part of me the sense of being (having come) home - again. Greetings, old friends, I say to the mountains. And they say welcome home, daughter. Everything else falls away - the tensions, the stresses, confusions of putting the trip together; it's gone, doesn't matter now. Whoever, whatever I am elsewhere falls away, too. Honed down, stripped away, I'm there completely. Jaguar, not hunting, not even stalking really, just alive with the quiet, deep excitement of anticipated adventure. My physical body has caught up to where my spirit has always been, never left. We go through the gate, get our bags, get on the bus for Cuzco."</p>
+
+   <h2>Buy the Book: Through The Eyes of Jaguar: One Woman's Journey</h2>
+
+   <p>$19.95 + shipping and handling and tax</p>
+
+   <p><b>2 Way to purchase the book</b>
+   <ol>
+   <li><b>PayPal and Credit Cards</b>
+
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="3132626">
+        <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="">
+        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        <br />
+   </li>
+   <li><b>Checks and Money Orders</b><br>
+   To pay by check or money order, please print and mail order form.<br>[ <a href="documents/TheBookwebpageorderform.pdf" target="_blank">Get Order Form</a> ]
+   </li>
+   </ol>
+
+   </p>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->

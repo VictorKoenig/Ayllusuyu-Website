@@ -1,0 +1,53 @@
+<!--#set var="htmlTitle" value="Help the children of Peru by donating to the Peru's Children Fund and the Q'ero Fund" -->
+<!--#set var="metaDescription" value="Help the children of Peru by donating to the Peru's Children Fund and the Q'ero Fund" -->
+<!--#set var="metaKeywords" value="donate, donations, children of peru, peru childrens fund" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Help the Children of Peru" -->
+<!--#set var="title-3" value="Donate to the Peru's Children Fund and the Q'ero Fund" -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/slideshow-top.shtml" -->
+<!--#include virtual="./inc/slideshow.shtml" -->
+<!--#include virtual="./inc/slideshow-bottom.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+ 
+    <h2>Help the Children of Peru</h2>
+
+    <h3>CHILDREN'S FUND</h3>
+
+    <img src="./img/peru-childrens-fund.jpg" style="width: 90px; height: 132px; vertical-align: left; margin-right: 8px; margin-top: 2px; float: left;" alt="The Children of Peru" />
+
+    <p>Ayllusuyu has a fund to help the children of Peru. There are many children who have been abandoned or are in need of clothing, food, shelter, medical care, etc..</p>
+
+    <p>Through the efforts of Ayllusuyu, these children are receiving the aid they need. The person that handles the use of our money is a close and dear friend, Tito Nunez. I know him to be of an impeccable nature and I trust him unconditionally in the handling of these funds. There is no third party that the money has to pass through to get to the children.</p>
+
+    <p>Donations of any amount can be sent to the mailing address of Ayllusuyu <i>(see below)</i>.</p>
+
+    <h3>Q'ERO FUND</h3>
+
+    <img src="./img/don-marianonew-quero.jpg" style="width: 110px; height: 150px; vertical-align: left; margin-left: 8px; margin-top: 2px; float: right;" alt="Don Marianonew Quero" />
+
+    <p>Ayllusuyu's fund for the Q'ero people is to provide them with clothing, shelter, food, medical care, etc.. These beautiful people, who are the pure-blood descendants of the ancient Inca, give so much to us and ask so little in return. It is the least we can do for them. Your donations will go far to help them.</p>
+
+    <p>As with the Children's Fund, donations of any amount can be sent to the mailing address listed below. This is so that I can cash them and bring the money to Peru with me. I personally hand these donations to Tito Nunez. Tito is a friend and colleague who has helped us throughout the years with the Children's Fund. </p>
+
+    <p>Donations of any amount can be sent to the mailing address of Ayllusuyu <i>(see below)</i>.</p>
+
+    <h3>Our Funds</h3>
+
+    <p>We have items that we are selling for the both the Children's and Qeros' funds. If you are interested in seeing them, you can <a href="./cgi-bin/contact.cgi">contact us</a> and we can make arrangements to meet with you so you can see what we have. The proceeds from these sales go entirely to the funds. We take nothing for any expenses.</p>
+
+    <p>Sulpayki, the Quechua word for thank you.</p>
+
+	<a href="http://www.ayllusuyu.com/Newwebsite/donationform.html"><b>Donations</b></a>
+	
+    <p>
+	
+    Ayllusuyu<br />
+    732-533-7276<br />
+    P.O. Box 491<br />
+    Middlesex, NJ 08846<br />
+	apusalkantay@aol.com
+    </p>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->

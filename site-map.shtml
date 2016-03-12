@@ -1,0 +1,57 @@
+<!--#set var="htmlTitle" value="Site Map | Ayllusuyu" -->
+<!--#set var="metaDescription" value="Site Map of Ayllusuyu" -->
+<!--#set var="metaKeywords" value="site map, sitemap" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Find information healing retreats, classes and workshop and shamanic healing in Peru." -->
+<!--#set var="title-3" value="Site Map of healers, shaman, healing journeys to Peru and more..." -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/slideshow-top.shtml" -->
+<!--#include virtual="./inc/slideshow.shtml" -->
+<!--#include virtual="./inc/slideshow-bottom.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+ 
+    <h2>Site Map</h2>
+
+    <h2>About Ayllusuyu and Fran Russo</h2>
+        <ul>
+            <li><a href="./shaman-fran-russo.shtml">Fran Russo</a></li>
+            <li><a href="./through-the-eyes-of-jaguar-book.shtml">Through The Eyes of Jaguar: One Woman's Journey</a></li>
+            <li><a href="./healing-workshop-testimonials.shtml">Testimonials about Sacred Journeys to Peru, Healing Workshops and Healing Retreats and Classes</a></li>
+            <li><a href="./peru-childrens-fund.shtml">Help The Children of Peru</a></li>
+        </ul>
+
+    <h2>Journeys</h2>
+        <ul>
+            <li><a href="./shaman-healing-journeys-peru.shtml">Peru Healing Journey: The Amazon, Cuzco, The Sacred Valley, Machu Picchu</a></li>
+            <li><a href="./shaman-healing-retreats-peru.shtml">Peru Healing Retreat: Killarumiyoq, The Temple of The Moon (place of the Sacred Feminine)</a></li>
+            <li><a href="./incan-sweat-lodge-retreat.shtml">Incan Sweat Lodge Journey</a></li>
+        </ul>
+
+    <h2>Workshops</h2>
+         <ul>
+            <li><a href="./higher-grounds.shtml">Higher Grounds</a></li>
+			<li><a href="./EnergeticWeavers.shtml">Energetic Weavers</a></li>
+            <li><a href="./advanced-chakana-workshop.shtml">Advanced Chakana I - IV</a></li>
+            <li><a href="./advanced-training-workshop.shtml">Advanced Training I - IV</a></li>
+            <li><a href="./ayni-workshop.shtml">Ayni</a></li>
+        </ul>
+
+    <h2><a href="./calendar.shtml">Calendar</a></h2>
+
+    <h2><a href="./cgi-bin/contact.cgi">Contact Us</a></h2>
+
+    <h2>Photo Gallery</h2>
+        <ul>
+           <li><a href="./photo-gallery-the-amazon.shtml">The Amazon</a></li>
+           <li><a href="./photo-gallery-machu-picchu.shtml">Machu Picchu</a></li>
+           <li><a href="./photo-gallery-sacred-valley.shtml">Sacred Valley and Other Sacred Sites</a></li>
+           <li><a href="./photo-gallery-sacred-mountains.shtml">Sacred Mountains</a></li>
+           <li><a href="./photo-gallery-lake-titicaca.shtml">Lake Titicaca</a></li>
+           <li><a href="./photo-gallery-shamans.shtml">The Shamans We Work With</a></li>
+           <li><a href="./photo-gallery-children-of-peru.shtml">The Children of Peru</a></li>
+        </ul>
+
+    <h3><a href="./index.shtml">Home</a></h3>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->

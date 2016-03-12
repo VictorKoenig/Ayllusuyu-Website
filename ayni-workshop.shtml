@@ -1,0 +1,26 @@
+<!--#set var="htmlTitle" value="Ayni Workshop" -->
+<!--#set var="metaDescription" value="Ayni Workshop" -->
+<!--#set var="metaKeywords" value="anyi" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Ayni Workshop" -->
+<!--#set var="title-3" value="Perfect Relationship" -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/slideshow-top.shtml" -->
+<!--#include virtual="./inc/slideshow.shtml" -->
+<!--#include virtual="./inc/slideshow-bottom.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+ 
+    <h2>Workshop: Ayni - Perfect Relationship</h2>
+
+    <p>At the end of each year, we have a day of bringing ourselves into perfect relationship as we enter the new year. In this way, we can clear ourselves of engagements that were out of balance, energetically "settling our accounts. It is important that we all step in now and no longer put off what we have long known we have to do.</p>
+
+    <p>This one-day event gives you the opportunity to become clean and clear of any engagement that took you away from your original intent of being a Vessel of Light and being in service. This could be allowing what your Lower Self wanted rather than letting your Higher Self guide you. This could have taken many forms. Give yourself the gift of clarity and cleansing. In this way, you give the gift to all others.</p>
+
+    <p>Please check the <a href="./calendar.shtml">calendar</a> for the next Ayni Workshop.</p>
+
+    <p>If you would like to join this extraordinary workshop or have questions, please call 732-533-7276 or <a href="./cgi-bin/contact.cgi">contact us</a>.</p>
+
+    <p>To register, please complete the <a href="./documents/registration/anyi-workshop.doc">registration form</a>.</p>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->
