@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+        <title><!--#echo var="htmlTitle"--></title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="description" content="<!--#echo var="metaDescription"-->">
+        <meta name="keywords" content="<!--#echo var="metaKeywords"-->">
+        <meta name="y_key" content="">
+       	<link rel="stylesheet" type="text/css" href="./css/base.css" />
+        <link rel="stylesheet" type="text/css" href="./css/style.css" />
+        <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic'>
+    	<script type="text/javascript" src="./js/jquery.js"></script>
+</head>
+
+<body>
+
+<div class="header">
+
+	<div class="container">
+
+        <div class="icons" style="text-align: center; border: 0px solid #265373;">
+
+            <table style="padding: 0px; border-collapse: separate;">
+            <tr>
+            <td><a href="./calendar.shtml"><img src="./img/icon-calendar.png" style="width: 50px; height: 45px;" alt="Ayllusuyu Calendar" /></a></td>
+            </tr>
+            <tr>
+            <td><a href="./calendar.shtml">Calendar</a></td>
+            </tr>
+            </table>
+
+        </div>
+
+        <a href="./index.shtml"><img src="./img/logo.png" style="width: 100px; height: 88px; margin-top: 10px; position: absolute;" alt="Ayllusuyu Logo" /></a>
+
+		<h1 class="logo"><!--#echo var="title-1"--></h1>
+        <h2 class="logosub"><!--#echo var="title-2"--></h2>
+        <h3 class="logosub2"><!--#echo var="title-3"--></h3>
+
+	</div>
+
+</div>
+
+<div class="nav">
+
+	<ul class="container">
+
+		<li><a href="./index.shtml">Home</a></li>
+		<li><a href="#">About Us</a>
+            <ul>
+                   <li><a href="./shaman-fran-russo.shtml">About Fran Russo and Ayllusuyu</a></li>
+                   <li><a href="./through-the-eyes-of-jaguar-book.shtml">Through The Eyes of Jaguar: One Woman's Journey (Author Fran Russo)</a></li>
+                   <li><a href="./healing-workshop-testimonials.shtml">Workshop and Journey Testimonials</a></li>
+                   <li><a href="./peru-childrens-fund.shtml">Help The Children of Peru</a></li>      
+            </ul>
+        </li>
+		<li><a href="#">Journeys</a>
+
+                <ul>
+               
+			       <li><a href="./PeruAmaruMuruRaqchiTiahuanocoSillustani.shtml">Peru 2015 : Amaru Muru, Raqchi, Tiahuanoco, Sillustani
+Ancient Places of The Inca</a></li>
+                   <li><a href="./shaman-healing-retreats-peru.shtml">Peru 2012: We Are The Weavers</a></li>
+                   <li><a href="./incan-sweat-lodge-retreat.shtml">Incan Sweat Lodge with Doña Julia</a></li>
+                  
+                </ul>
+
+        </li>
+		<li><a href="#">Workshops</a>
+                 <ul>
+                   <li><a href="./higher-grounds.shtml">Higher Grounds</a></li>
+				   <li><a href="./EnergeticWeavers.shtml">Energetic Weavers</a></li>
+                   <li><a href="./advanced-chakana-workshop.shtml">Advanced Chakana I - IV</a></li>
+                   <li><a href="./advanced-training-workshop.shtml">Advanced Training I - IV</a></li>
+                   <li><a href="./ayni-workshop.shtml">Ayni</a></li>
+				   <li><a href="./thenaturalwayofwomen.shtml">The Natural Way Of Women</a></li>
+                </ul>
+        </li>
+		<!--<li><a href="#">Classes</a></li>-->
+		<!--<li><a href="#">Special Events</a></li>-->
+		<li><a href="#">Photo Gallery</a>
+                 <ul>
+                   <li><a href="./photo-gallery-the-amazon.shtml">The Amazon</a></li>
+                   <li><a href="./photo-gallery-machu-picchu.shtml">Machu Picchu</a></li>
+                   <li><a href="./photo-gallery-sacred-valley.shtml">Sacred Valley and Other Sacred Sites</a></li>
+                   <li><a href="./photo-gallery-sacred-mountains.shtml">Sacred Mountains</a></li>
+                   <li><a href="./photo-gallery-lake-titicaca.shtml">Lake Titicaca</a></li>
+                   <li><a href="./photo-gallery-shamans.shtml">The Shamans We Work With</a></li>
+                   <li><a href="./photo-gallery-children-of-peru.shtml">The Children of Peru</a></li>
+                </ul>
+       </li>
+
+		<li><a href="./calendar.shtml">Register</a></li>
+		<li><a href="./cgi-bin/contact.cgi">Contact Us</a></li>
+		<li><a href="./Services.shtml">Services</a></li>
+		
+
+	</ul>
+
+</div>

@@ -1,0 +1,18 @@
+
+           <div class="ws_images">
+
+              <ul>
+                <li><img src="./img/peru-machu-picchu.png" alt="" title="" id="wows1_0"/></li>
+                <li><img src="./img/peru-amazon.png" alt="" title="" id="wows1_1"/></li>
+             </ul>
+
+           </div>
+
+           <div class="ws_bullets">
+
+                <div>
+                <a href="#" title="Machu Picchu"><img src="./img/peru-machu-picchu.png" alt="Machu Picchu"/></a>
+                <a href="#" title="The Amazon"><img src="./img/peru-machu-picchu.png" alt="The Amazon"/></a>
+                </div>
+
+           </div>
