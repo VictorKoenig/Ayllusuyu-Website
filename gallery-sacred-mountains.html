@@ -1,0 +1,60 @@
+<!--#set var="htmlTitle" value="Sacred Mountains | Ayllusuyu Photo Gallery" -->
+<!--#set var="metaDescription" value="The Sacred Mountains Photo Gallery." -->
+<!--#set var="metaKeywords" value="sacred mountain, sacred mountain peru, sacred mountain pictures, sacred mountain pics, sacred mountain photos" -->
+<!--#set var="title-1" value="Ayllusuyu" -->
+<!--#set var="title-2" value="Sacred Mountain and Other Sacred Sites" -->
+<!--#set var="title-3" value="" -->
+<!--#include virtual="./inc/header.shtml" -->
+<!--#include virtual="./inc/body-start.shtml" -->
+
+       <html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Carousel with AngularJs</title>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="http://www.ayllusuyu.com/css/reset.css">
+
+    <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css'>
+
+        <link rel="stylesheet" href="http://www.ayllusuyu.com/css/img.css">
+
+    
+    
+    
+  </head>
+
+  <body>
+
+    <div ng-app="app">
+  <div ng-controller="CarouselDemoCtrl" id="slides_control">
+    <div>
+      <carousel interval="myInterval">
+        <slide ng-repeat="slide in slides" active="slide.active">
+          <img ng-src="{{slide.image}}">
+          <div class="carousel-caption">
+            <h4></h4>
+          </div>
+        </slide>
+      </carousel>
+    </div>
+  </div>
+</div>  
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.10.0/ui-bootstrap-tpls.min.js"></script>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+        <script src="http://www.ayllusuyu.com/Newwebsite/js/indexmountains.js"></script>
+
+    
+    
+    
+  </body>
+  
+  <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br> <br><br> <br><br> <br><br><br><br> <br><br> <br><br>
+  <br><br>
+  
+</html>
+
+<!--#include virtual="./inc/body-end.shtml" -->
+<!--#include virtual="./inc/footer.shtml" -->
