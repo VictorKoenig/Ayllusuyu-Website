@@ -22,4 +22,7 @@ Overall the website is still not entirely done.
 I am still ironing out a few kinks in the overall responsiveness, orginazation, and updating things as the owner is
  working with me designing graphics to integrate into the layout. Thanks for your time. I appreciate it :) 
 
+
+http://ayllusuyu.com/Newwebsite/index.html
+
 -Victor Koenig
